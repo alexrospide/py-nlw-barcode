@@ -1,3 +1,6 @@
 # arquivos gerados quando o programa python é executado
 **/__pycache__
-.venv
+.venv/
+
+#imagens formato png
+*.png
